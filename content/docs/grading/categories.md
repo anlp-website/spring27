@@ -12,8 +12,8 @@ We have 5 big assignments in total (subject to change). Visit this course's Canv
 - [10%] HW1: Week 1 to Week 2 topics
 - [15%] HW2: Week 3 to Week 4 topics
 - [15%] HW3: Week 5 to Week 6 topics
-- [15%] HW4: Week 8 to Week 12 topics
-- [10%] HW5: Week 13 to Week 15 topics
+- [15%] HW4: Week 8 to Week 11 topics
+- [10%] HW5: Week 12 to Week 15 topics
 
 We do not release solutions for homework. Some of our assignments will have bonus points and bonus points are weighted the same as the 'regular' assignments points. 
 

@@ -108,77 +108,78 @@ tableRows:
     Dates: "3/8 - 3/12"
     Topics:
       - Spring Break Institute Holiday (3/8 - 3/12)
+      - "Transformer models"
+      - "Examples: BERT(Bidirectional Encoder Representations from Transformers) and GPT (Generative Pre-trained Transformer) "
+      - "Transformer Deep Dive"
+    Quizzes: "Quiz 7 | week 8| out 3/5 - due 3/15"
+    Readings:
+      - "[Attention Is All You Need](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&cad=rja&uact=8&ved=2ahUKEwiPtd7Y9IWAAxU2JkQIHW1EDKIQFnoECA0QAQ&url=https%3A%2F%2Farxiv.org%2Fabs%2F1706.03762&usg=AOvVaw2ceXGQohV5Kx51VSkfkG08&opi=89978449);"
+      - "[BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&cad=rja&uact=8&ved=2ahUKEwj3vITv9IWAAxUkOkQIHYjkApEQFnoECA0QAQ&url=https%3A%2F%2Farxiv.org%2Fabs%2F1810.04805&usg=AOvVaw14sm9MmA6c9pcfLHgrP9Pk&opi=89978449);"
+    Homework:
+      - "**HW3 due 3/15**"
+      - "HW4 out 3/15"
 
   - 10:
     Week: 10
     Dates: "3/15 - 3/19"
     Topics:
-      - "Transformer models"
-      - "Examples: BERT(Bidirectional Encoder Representations from Transformers) and GPT (Generative Pre-trained Transformer) "
-      - "Transformer Deep Dive"
-    Quizzes: "Quiz 7 | week 8| out 3/5 - due 3/19"
-    Readings:
-      - "[Attention Is All You Need](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&cad=rja&uact=8&ved=2ahUKEwiPtd7Y9IWAAxU2JkQIHW1EDKIQFnoECA0QAQ&url=https%3A%2F%2Farxiv.org%2Fabs%2F1706.03762&usg=AOvVaw2ceXGQohV5Kx51VSkfkG08&opi=89978449);"
-      - "[BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&cad=rja&uact=8&ved=2ahUKEwj3vITv9IWAAxUkOkQIHYjkApEQFnoECA0QAQ&url=https%3A%2F%2Farxiv.org%2Fabs%2F1810.04805&usg=AOvVaw14sm9MmA6c9pcfLHgrP9Pk&opi=89978449);"
-    Homework:
-      - "**HW3 due 3/19**"
-      - "HW4 out 3/19"
+      - "Sequence Labelling: POS Tagging"
+      - "Sequence Labelling: NER"
+    Quizzes: "Quiz 8 | week 9| out 3/15 - due 3/19"
+
 
   - 11:
     Week: 11
     Dates: "3/22 - 3/26"
     Topics:
-      - "Sequence Labelling: POS Tagging"
-      - "Sequence Labelling: NER"
-    Quizzes: "Quiz 8 | week 10| out 3/19 - due 3/26"
-
-
+      - "Unsupervised Models"
+      - "Topic Modeling (Latent Semantic Indexing, LDA (Latent Dirichlet Allocation)"
+    Quizzes: "Quiz 9 | week 10| out 3/19 - due 3/26"
   - 12:
     Week: 12
     Dates: "3/29 - 4/2"
-    Topics:
-      - "Unsupervised Models"
-      - "Topic Modeling (Latent Semantic Indexing, LDA (Latent Dirichlet Allocation)"
-    Quizzes: "Quiz 9 | week 11| out 3/26 - due 4/2"
-  - 13:
-    Week: 13
-    Dates: "4/5 - 4/9"
     Topics:
       - "Introduction to Generative AI"
       - "Prompt Engineering Techniques"
       - "Retrieval Augmented Generation (RAG)"
       - "Toolbox on Exploring LLMs"
-    Quizzes: "Quiz 10 | week 12| out 4/2 - due 4/9"
+    Quizzes: "Quiz 10 | week 11| out 3/26 - due 4/2"
 
 
+  - 13:
+    Week: 13
+    Dates: "4/5 - 4/9"
+    Topics:
+      - Focus on HW 4
+    Quizzes: "Quiz 11 | week 12| out 4/2 - due 4/9"
+    Homework:
+      - "**HW4 due 4/9**"
+      - "HW5 out 4/9"
+
+ 
   - 14:
     Week: 14
     Dates: "4/12 - 4/16"
     Topics:
-      - Focus on HW 4
-    Quizzes: "Quiz 11 | week 13| out 4/9 - due 4/16"
-    Homework:
-      - "**HW4 due 4/16**"
-      - "HW5 out 4/16"
+      - "Foundations of Agentic AI"
 
-
+ 
   - 15:
     Week: 15
     Dates: "4/19 - 4/23"
     Topics:
-      - "Foundations of Agentic AI"
       - "Architectures and Reasoning in Agentic AI"
       - "Multi-Agent and Real World Systems"
       - "Toolbox on Agentic AI"
-
-
+ 
   - 16:
     Week: 16
     Dates: "4/26 - 4/27"
     Topics:
       - "Course and Homework Wrap-Up"
       - "Focus on HW5"
-    Quizzes: "Quiz 12 | week 15| out 4/23 - due 4/27"
+    Quizzes: "Quiz 12 | week 14&15| out 4/23 - due 4/27"
     Homework:
       - "**HW5 due 4/27**"
       - " **Note:** You may submit HW5 without penalty until **4/30** "
+ 
