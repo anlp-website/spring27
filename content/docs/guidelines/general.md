@@ -37,4 +37,4 @@ Edstem will be the main and only place for the course discussions and announceme
 
 ## Exceptional Circumstances
 
-Any request for exceptions to these policies should be made in advance when at all possible. Requests should be due to incapacitating illness, personal emergencies, or similarly serious events. Your request **MUST** be accompanied by a supporting letter issued by the [Dean of Students](https://studentlife.gatech.edu/request-assistance) before contacting us. Once you acquired the letter, please go this Ed Discussion post and fill out the form and ping us on Ed Discussion using a private post that you filled out the form.
+Any request for exceptions to these policies should be made in advance when at all possible. Requests should be due to incapacitating illness, personal emergencies, or similarly serious events. Your request **MUST** be accompanied by a supporting letter issued by the [Dean of Students](https://studentlife.gatech.edu/request-assistance) before contacting us. Once you have acquired the letter, please contact us in Ed Discussion by creating a private post and include the letter in the post.

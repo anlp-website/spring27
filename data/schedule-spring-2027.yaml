@@ -115,6 +115,7 @@ tableRows:
     Topics:
       - "Transformer models"
       - "Examples: BERT(Bidirectional Encoder Representations from Transformers) and GPT (Generative Pre-trained Transformer) "
+      - "Transformer Deep Dive"
     Quizzes: "Quiz 7 | week 8| out 3/5 - due 3/19"
     Readings:
       - "[Attention Is All You Need](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&cad=rja&uact=8&ved=2ahUKEwiPtd7Y9IWAAxU2JkQIHW1EDKIQFnoECA0QAQ&url=https%3A%2F%2Farxiv.org%2Fabs%2F1706.03762&usg=AOvVaw2ceXGQohV5Kx51VSkfkG08&opi=89978449);"
