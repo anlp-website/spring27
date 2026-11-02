@@ -3,7 +3,7 @@ title: Home
 type: docs
 ---
 
-# Applied Natural Language Processing CSE 8803 - Fall 2026
+# Applied Natural Language Processing CSE 8803 - Spring 2027
 
 ## Course Info
 
